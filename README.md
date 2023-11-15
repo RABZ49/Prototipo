@@ -1,3 +1,3 @@
 # Prototipo
 
-aqui se encunetran los archivos que se usan en el prototipo
+aqui se encuentran los archivos que se usan en el prototipo
